@@ -1,0 +1,15 @@
+    th,
+    td,
+    tr,
+    table {
+        border: 1px solid brown;
+    }
+
+table{
+    margin: 30px auto;
+    width: 50%;
+}
+td{
+    padding: 12px;
+    text-align: center;
+}
